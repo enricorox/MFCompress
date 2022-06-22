@@ -1,0 +1,10 @@
+/build.ninja
+/.ninja_log
+/.cmake/
+/CMakeCache.txt
+/cmake_install.cmake
+/CMakeFiles/
+/.ninja_deps
+/Testing/
+/MFCompressC
+/MFCompressD
