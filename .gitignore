@@ -1,6 +1,7 @@
 /build.ninja
 /.ninja_log
 /.cmake/
+/.idea
 /CMakeCache.txt
 /cmake_install.cmake
 /CMakeFiles/
